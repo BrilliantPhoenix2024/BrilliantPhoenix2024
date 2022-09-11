@@ -7,5 +7,3 @@ Hi there 👋 I'm Atefeh.
  📫 How to reach me: atefeh.mohammadi.dinani@outlook.com
  
  ⚡ Practic makes Perfect.
- 
- 😄 Fun fact: I'm a happy enthusiastic learner or maybe an adventurer in tech.
