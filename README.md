@@ -6,4 +6,4 @@ Hi there 👋 I'm Atefeh.
  
  📫 How to reach me: atefeh.mohammadi.dinani@outlook.com
  
- ⚡ Practic makes Perfect.
+ ⚡ Just Get 1% BETTER Every Day, Practic makes Perfect!
