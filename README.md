@@ -1,8 +1,8 @@
 Hi there 👋 I'm Atefeh.
 
- 🔭 I’m currently working on Django and Python.
+ 🔭 I’m currently working on Django and ReactJS.
  
- 🌱 I’m currently learning Js and ReactJS.
+ 🌱 I’m currently learning SQL.
  
  📫 How to reach me: atefeh.mohammadi.dinani@outlook.com
  
